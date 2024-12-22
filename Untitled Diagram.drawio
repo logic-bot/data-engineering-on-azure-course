@@ -64,7 +64,7 @@
         <mxCell id="koMXSCEaMbT42UIQHmm_-16" value="Python Script" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="599.5" y="306.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="koMXSCEaMbT42UIQHmm_-17" value="On Premise Database" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="koMXSCEaMbT42UIQHmm_-17" value="On Premise Database/ Loacl Machine" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="168.29" y="310" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="koMXSCEaMbT42UIQHmm_-19" value="Cloud Hosted DB" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
